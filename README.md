@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9BF7,100:8E2DE2&height=220&section=header&text=Muhammad%20Nafiz%20Azmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=3D%20%7C%20UI%2FUX%20%7C%20Web%20%7C%20Game%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1FF,50:A0C4FF,100:B9FBC0&height=250&section=header&text=✧%20Muhammad%20Nafiz%20Azmi%20✧&fontSize=38&fontColor=2b2b2b&animation=twinkling&fontAlignY=40&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=62&descSize=16&descColor=3d3d3d" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2C9BF7&center=true&vCenter=true&width=600&lines=Vocational+High+School+Student;3D+%7C+UI%2FUX+%7C+Web+%7C+Game+Developer;Learning+3D+Game+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=building+worlds+in+3D+%E2%9C%A6;dreaming+in+code+and+pixels;3D+%7C+UI%2FUX+%7C+Web+%7C+Game+Dev;still+learning%2C+always+growing" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌙 About Me
 
 🎓 Saya seorang **Vocational High School Student** yang suka membuat sesuatu lewat **3D, UI/UX, Website, dan Game**.  
 🎮 Saat ini saya sedang fokus mengasah kemampuan **3D untuk pengembangan game** dan terus belajar setiap harinya.  
@@ -44,7 +48,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## ✉️ Connect With Me
 
 <div align="center">
 
@@ -67,10 +71,14 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
-✨ *Thanks for visiting my profile! Feel free to reach out.* ✨
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2C9BF7&height=150&section=footer" width="100%"/>
+✧ *thanks for wandering through my profile* ✧
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:B9FBC0,50:A0C4FF,100:FFD1FF&height=180&section=footer&animation=twinkling" width="100%"/>
 
 </div>
