@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="400">
 
 </div>
 
@@ -19,7 +19,7 @@
 🌍 Impian saya adalah melanjutkan studi ke **universitas di Jerman** setelah lulus.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </div>
 
 ---
@@ -78,3 +78,15 @@
 <br/>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="400">
+
+<br/>
+
+✧ *thanks for wandering through my profile* ✧
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B9FBC0,50:A0C4FF,100:FFD1FF&height=180&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
