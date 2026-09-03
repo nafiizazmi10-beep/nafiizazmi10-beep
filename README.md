@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi There, I'm Muhammad Nafiz Azmi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9BF7,100:8E2DE2&height=220&section=header&text=Muhammad%20Nafiz%20Azmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=3D%20%7C%20UI%2FUX%20%7C%20Web%20%7C%20Game%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2C9BF7&center=true&vCenter=true&width=600&lines=Vocational+High+School+Student;3D+%7C+UI%2FUX+%7C+Web+%7C+Game+Developer;Learning+3D+Game+Development" alt="Typing SVG" />
 
@@ -28,6 +28,17 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Blender](https://img.shields.io/badge/3D-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+## 🧩 Frameworks & Tools
+
+<div align="center">
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
@@ -59,5 +70,7 @@
 <div align="center">
 
 ✨ *Thanks for visiting my profile! Feel free to reach out.* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2C9BF7&height=150&section=footer" width="100%"/>
 
 </div>
