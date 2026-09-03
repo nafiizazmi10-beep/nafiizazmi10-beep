@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD1FF,50:A0C4FF,100:B9FBC0&height=250&section=header&text=✧%20Muhammad%20Nafiz%20Azmi%20✧&fontSize=38&fontColor=2b2b2b&animation=twinkling&fontAlignY=40&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=62&descSize=16&descColor=3d3d3d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1FF,50:A0C4FF,100:B9FBC0&height=250&section=header&text=✧%20Muhammad%20Nafiz%20Azmi%20✧&fontSize=38&fontColor=2b2b2b&animation=fadeIn&fontAlignY=35&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descAlignY=58&descSize=16&descColor=3d3d3d" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=building+worlds+in+3D+%E2%9C%A6;dreaming+in+code+and+pixels;3D+%7C+UI%2FUX+%7C+Web+%7C+Game+Dev;still+learning%2C+always+growing" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%">
 
 </div>
 
@@ -17,6 +17,10 @@
 🎓 Saya seorang **Vocational High School Student** yang suka membuat sesuatu lewat **3D, UI/UX, Website, dan Game**.  
 🎮 Saat ini saya sedang fokus mengasah kemampuan **3D untuk pengembangan game** dan terus belajar setiap harinya.  
 🌍 Impian saya adalah melanjutkan studi ke **universitas di Jerman** setelah lulus.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
 
 ---
 
@@ -74,11 +78,3 @@
 <br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-✧ *thanks for wandering through my profile* ✧
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:B9FBC0,50:A0C4FF,100:FFD1FF&height=180&section=footer&animation=twinkling" width="100%"/>
-
-</div>
